@@ -8,3 +8,4 @@ output/
 data/base_resume.pdf
 data/*.pdf
 
+playwright_profiles/

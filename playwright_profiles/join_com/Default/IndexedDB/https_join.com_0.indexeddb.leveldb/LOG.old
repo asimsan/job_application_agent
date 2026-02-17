@@ -1,6 +1,0 @@
-2025/04/30-20:02:38.294 1180db2 Creating DB /Users/asimsan/job_application_agent/playwright_profiles/join_com/Default/IndexedDB/https_join.com_0.indexeddb.leveldb since it was missing.
-2025/04/30-20:02:38.297 1180db2 Reusing MANIFEST /Users/asimsan/job_application_agent/playwright_profiles/join_com/Default/IndexedDB/https_join.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/30-20:02:38.859 1180db2 Level-0 table #5: started
-2025/04/30-20:02:38.861 1180db2 Level-0 table #5: 3827 bytes OK
-2025/04/30-20:02:38.863 1180db2 Delete type=0 #3
-2025/04/30-20:02:38.863 1180db2 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
