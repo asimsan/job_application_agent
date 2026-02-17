@@ -1,0 +1,9 @@
+google-generativeai
+playwright
+playwright-stealth
+requests
+beautifulsoup4
+pypdf
+python-dateutil
+reportlab
+setuptools 

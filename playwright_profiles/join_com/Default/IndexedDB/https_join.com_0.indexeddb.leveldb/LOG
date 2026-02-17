@@ -1,0 +1,4 @@
+2025/04/30-20:06:01.769 1181afa Reusing MANIFEST /Users/asimsan/job_application_agent/playwright_profiles/join_com/Default/IndexedDB/https_join.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/30-20:06:01.769 1181afa Recovering log #4
+2025/04/30-20:06:01.770 1181afa Reusing old log /Users/asimsan/job_application_agent/playwright_profiles/join_com/Default/IndexedDB/https_join.com_0.indexeddb.leveldb/000004.log 
+2025/04/30-20:06:02.473 1181afd Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
